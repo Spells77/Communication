@@ -16,3 +16,10 @@
             total = num1 + num2;
 
             Console.WriteLine(" Your Total is :" + total);
+
+
+
+  - [ ] think of what to put in the checklist
+  - [ ] create the checklist 
+  - [ ] profit?
+            
